@@ -1,0 +1,8 @@
+{
+	"project_name": "C-Recursion-Worksheet",
+	"project_gitrepo": "https://abhirulz@bitbucket.org/abhirulz/c-recursion-worksheet.git",
+	"project_page": "http://mission-rnd.github.io/C/part-1/C-Arrays.htm",
+	"language": "c",
+	"project_validator": "vstest.console.exe",
+	"project_steps": ["CountPairs", "Steps", "NSnipers" ,"Maze", "Spiral"]
+}

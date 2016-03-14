@@ -9,7 +9,7 @@ using namespace Microsoft::VisualStudio::TestTools::UnitTesting;
 namespace spec
 {
 	[TestClass]
-	public ref class UnitTest
+	public ref class SpiralSpec
 	{
 	private:
 		TestContext^ testContextInstance;

@@ -11,7 +11,7 @@ using namespace Microsoft::VisualStudio::TestTools::UnitTesting;
 namespace spec
 {
 	[TestClass]
-	public ref class NQueensSpec
+	public ref class NSnipersSpecSpec
 	{
 	private:
 		TestContext^ testContextInstance;

@@ -7,9 +7,10 @@
 	Example : For N=4 , You can either reach 4 steps in following ways
 	->1111
 	->112
+	->121
 	->211
 	->22
-	So total number of ways is 4
+	So total number of ways is 5
 
 	Input : A Integer denoting N (number of steps )
 	Output : Return an Integer denoting the number of ways to reach N steps
